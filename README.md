@@ -1,16 +1,29 @@
+This app is my assignment for the Mobile Application Development course. I built it using Expo CLI and React Native, and wrote all the code in VS Code.
+Features
 
 
-This app is my assignment for Mobile Application Development subject.
-I created it using Expo CLI and React Native. I used VS Code to write the code.
-
-- Shows a list of exercises
-- When clicking an exercise, it shows details like picture and description
-- User can add new exercise using a form
+Displays a list of exercises
 
 
-1. Install Node.js and Expo CLI
-2. Download or clone this project
-3. Run: npm install
-4. Then run: npx expo start
+Tapping an exercise opens a detailed view with an image and description
 
-Submitted by: Sadaqat
+
+Allows users to add new exercises through a form
+
+
+How to Run the Project
+
+
+Install Node.js and Expo CLI
+
+
+Download or clone the project
+
+
+Run npm install
+
+
+Start the app using: npx expo start
+
+
+Submitted by: Faris Magsi
